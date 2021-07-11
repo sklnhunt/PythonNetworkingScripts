@@ -1,3 +1,5 @@
+# Disclamier : Don't use without permission of owner it is illegal to use this script on someone else domain or ip.
+
 import threading
 import socket
 
